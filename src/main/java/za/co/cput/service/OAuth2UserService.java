@@ -26,4 +26,4 @@ public class OAuth2UserService {
 			.map(Contact::getUser)
 			.orElse(null);
 	}
-}
+} //

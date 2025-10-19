@@ -56,4 +56,4 @@ public class AuthResponse {
     public void setContact(ContactDTO contact) { this.contact = contact; }
     public AddressDTO getAddress() { return address; }
     public void setAddress(AddressDTO address) { this.address = address; }
-}
+}//
