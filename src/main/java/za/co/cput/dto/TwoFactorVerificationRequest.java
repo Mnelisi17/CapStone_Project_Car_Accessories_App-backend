@@ -1,5 +1,9 @@
 package za.co.cput.dto;
-
+/**
+ * Hlumelo Madlingozi
+ * 222648120
+ * 5 August 2025
+ */
 public class TwoFactorVerificationRequest {
     private String email;
     private int code;

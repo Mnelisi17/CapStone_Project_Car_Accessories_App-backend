@@ -1,5 +1,6 @@
 package za.co.cput.dto;
-
+//Kholiwe Mafenuka
+//221686584
 public class PasswordResetRequest {
     private String email;
 
