@@ -1,5 +1,9 @@
 package za.co.cput.config;
-
+/*
+222293985
+Lennox Komane
+group 3F
+ */
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
