@@ -84,4 +84,4 @@ public class OAuth2Controller {
     //     }
     //     return ResponseEntity.ok(oauth2User.getAttributes());
     // }
-}
+}//End of the class
