@@ -12,4 +12,4 @@ public class PasswordUtil {
     public static boolean verifyPassword(String rawPassword, String hashedPassword) {
         return encoder.matches(rawPassword, hashedPassword);
     }
-}
+}//End of the class

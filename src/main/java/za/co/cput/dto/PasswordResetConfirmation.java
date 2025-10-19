@@ -1,5 +1,6 @@
 package za.co.cput.dto;
-
+//Kholiwe Faith Mafenuka
+//221686584
 public class PasswordResetConfirmation {
     private String token;
     private String newPassword;
