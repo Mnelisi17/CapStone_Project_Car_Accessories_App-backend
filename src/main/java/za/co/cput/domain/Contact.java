@@ -5,7 +5,11 @@ import javax.persistence.*;
 
 @Entity
 public class Contact {
-    @Id
+    @Id/*
+222293985
+Lennox Komane
+group 3F
+ */
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String email;
