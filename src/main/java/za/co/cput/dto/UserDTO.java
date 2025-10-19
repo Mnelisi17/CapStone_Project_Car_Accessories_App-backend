@@ -45,4 +45,4 @@ public class UserDTO {
     public User.Role getRole() { return role; }
     public ContactDTO getContact() { return contact; }
     public AddressDTO getAddress() { return address; }
-}//
+}///
